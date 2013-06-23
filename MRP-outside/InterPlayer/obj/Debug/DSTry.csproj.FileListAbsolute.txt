@@ -1,0 +1,13 @@
+D:\课程\directShow\DShowTutorial\dshowTry\DSTry\DSTry\bin\Debug\DSTry.exe.config
+D:\课程\directShow\DShowTutorial\dshowTry\DSTry\DSTry\bin\Debug\DSTry.exe
+D:\课程\directShow\DShowTutorial\dshowTry\DSTry\DSTry\bin\Debug\DSTry.pdb
+D:\课程\directShow\DShowTutorial\dshowTry\DSTry\DSTry\bin\Debug\DirectShowLib.dll
+D:\课程\directShow\DShowTutorial\dshowTry\DSTry\DSTry\obj\Debug\DSTry.csprojResolveAssemblyReference.cache
+D:\课程\directShow\DShowTutorial\dshowTry\DSTry\DSTry\obj\Debug\DSTry.Properties.Resources.resources
+D:\课程\directShow\DShowTutorial\dshowTry\DSTry\DSTry\obj\Debug\DSTry.csproj.GenerateResource.Cache
+D:\课程\directShow\DShowTutorial\dshowTry\DSTry\DSTry\obj\Debug\DSTry.exe
+D:\课程\directShow\DShowTutorial\dshowTry\DSTry\DSTry\obj\Debug\DSTry.pdb
+D:\课程\directShow\DShowTutorial\dshowTry\DSTry\DSTry\obj\Debug\DSTry.MainForm.resources
+D:\InterPlayer\dshowTry\DSTry\DSTry\bin\Debug\DSTry.exe.config
+D:\InterPlayer\dshowTry\DSTry\DSTry\obj\Debug\DSTry.exe
+D:\InterPlayer\dshowTry\DSTry\DSTry\obj\Debug\DSTry.pdb
