@@ -1,0 +1,8 @@
+D:\InterPlayer\NewPlayer\InvokeMRP\InvokeMRP\bin\Debug\InvokeMRP.exe.config
+D:\InterPlayer\NewPlayer\InvokeMRP\InvokeMRP\bin\Debug\InvokeMRP.exe
+D:\InterPlayer\NewPlayer\InvokeMRP\InvokeMRP\bin\Debug\InvokeMRP.pdb
+D:\InterPlayer\NewPlayer\InvokeMRP\InvokeMRP\obj\Debug\InvokeMRP.MainWindow.resources
+D:\InterPlayer\NewPlayer\InvokeMRP\InvokeMRP\obj\Debug\InvokeMRP.Properties.Resources.resources
+D:\InterPlayer\NewPlayer\InvokeMRP\InvokeMRP\obj\Debug\InvokeMRP.csproj.GenerateResource.Cache
+D:\InterPlayer\NewPlayer\InvokeMRP\InvokeMRP\obj\Debug\InvokeMRP.exe
+D:\InterPlayer\NewPlayer\InvokeMRP\InvokeMRP\obj\Debug\InvokeMRP.pdb

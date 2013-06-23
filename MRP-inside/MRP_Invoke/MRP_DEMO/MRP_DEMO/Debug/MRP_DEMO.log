@@ -1,0 +1,63 @@
+﻿生成启动时间为 2013/4/30 17:50:05。
+     1>项目“D:\InterPlayer\NewPlayer\MRP_Invoke\MRP_DEMO\MRP_DEMO\MRP_DEMO.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Program Files\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp pane.cpp Pane_component.cpp Pane_Component_Circle.cpp pane_component_image.cpp pane_component_key.cpp Pane_Component_Line.cpp Pane_Component_Rect.cpp pane_component_text.cpp Pane_Component_VideoBox.cpp pes.cpp scene_section.cpp scene_show_section.cpp SYN_INF_STRUCT.cpp ts.cpp
+         ts.cpp
+         SYN_INF_STRUCT.cpp
+     1>d:\interplayer\newplayer\mrp_invoke\mrp_demo\mrp_demo\syn_inf_struct.cpp(8): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\interplayer\newplayer\mrp_invoke\mrp_demo\mrp_demo\syn_inf_struct.cpp(54): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\interplayer\newplayer\mrp_invoke\mrp_demo\mrp_demo\syn_inf_struct.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
+         scene_show_section.cpp
+         scene_section.cpp
+         pes.cpp
+         Pane_Component_VideoBox.cpp
+         pane_component_text.cpp
+     1>d:\interplayer\newplayer\mrp_invoke\mrp_demo\mrp_demo\pane_component_text.cpp(106): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\interplayer\newplayer\mrp_invoke\mrp_demo\mrp_demo\pane_component_text.cpp(139): warning C4018: “<”: 有符号/无符号不匹配
+         Pane_Component_Rect.cpp
+         Pane_Component_Line.cpp
+         pane_component_key.cpp
+     1>d:\interplayer\newplayer\mrp_invoke\mrp_demo\mrp_demo\pane_component_key.cpp(71): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\interplayer\newplayer\mrp_invoke\mrp_demo\mrp_demo\pane_component_key.cpp(92): warning C4018: “<”: 有符号/无符号不匹配
+         pane_component_image.cpp
+     1>d:\interplayer\newplayer\mrp_invoke\mrp_demo\mrp_demo\pane_component_image.cpp(57): warning C4018: “<”: 有符号/无符号不匹配
+         Pane_Component_Circle.cpp
+         Pane_component.cpp
+         pane.cpp
+     1>d:\interplayer\newplayer\mrp_invoke\mrp_demo\mrp_demo\pane.cpp(5): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\interplayer\newplayer\mrp_invoke\mrp_demo\mrp_demo\pane.cpp(103): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\interplayer\newplayer\mrp_invoke\mrp_demo\mrp_demo\pane.cpp(127): warning C4018: “<”: 有符号/无符号不匹配
+         main.cpp
+     1>d:\interplayer\newplayer\mrp_invoke\mrp_demo\mrp_demo\main.cpp(36): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>d:\interplayer\newplayer\mrp_invoke\mrp_demo\mrp_demo\main.cpp(100): warning C4018: “<=”: 有符号/无符号不匹配
+     1>d:\interplayer\newplayer\mrp_invoke\mrp_demo\mrp_demo\main.cpp(111): warning C4018: “>”: 有符号/无符号不匹配
+     1>d:\interplayer\newplayer\mrp_invoke\mrp_demo\mrp_demo\main.cpp(124): warning C4018: “>”: 有符号/无符号不匹配
+     1>d:\interplayer\newplayer\mrp_invoke\mrp_demo\mrp_demo\main.cpp(75): warning C4101: “section_show_buf”: 未引用的局部变量
+     1>d:\interplayer\newplayer\mrp_invoke\mrp_demo\mrp_demo\main.cpp(219): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\string.h(110) : 参见“strcpy”的声明
+     1>d:\interplayer\newplayer\mrp_invoke\mrp_demo\mrp_demo\main.cpp(229): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(218) : 参见“fopen”的声明
+         正在生成代码...
+       Link:
+         D:\Program Files\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\InterPlayer\NewPlayer\MRP_Invoke\MRP_DEMO\Debug\MRP_DEMO.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\InterPlayer\NewPlayer\MRP_Invoke\MRP_DEMO\Debug\MRP_DEMO.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\InterPlayer\NewPlayer\MRP_Invoke\MRP_DEMO\Debug\MRP_DEMO.lib" /MACHINE:X86 Debug\main.obj
+         Debug\pane.obj
+         Debug\Pane_component.obj
+         Debug\Pane_Component_Circle.obj
+         Debug\pane_component_image.obj
+         Debug\pane_component_key.obj
+         Debug\Pane_Component_Line.obj
+         Debug\Pane_Component_Rect.obj
+         Debug\pane_component_text.obj
+         Debug\Pane_Component_VideoBox.obj
+         Debug\pes.obj
+         Debug\scene_section.obj
+         Debug\scene_show_section.obj
+         Debug\SYN_INF_STRUCT.obj
+         Debug\ts.obj
+         MRP_DEMO.vcxproj -> D:\InterPlayer\NewPlayer\MRP_Invoke\MRP_DEMO\Debug\MRP_DEMO.exe
+     1>已完成生成项目“D:\InterPlayer\NewPlayer\MRP_Invoke\MRP_DEMO\MRP_DEMO\MRP_DEMO.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.19
